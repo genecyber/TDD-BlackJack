@@ -1,0 +1,6 @@
+﻿namespace BlackJackTests
+{
+    class DealerTests
+    {
+    }
+}
